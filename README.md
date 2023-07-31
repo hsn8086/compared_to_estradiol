@@ -32,3 +32,16 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Gives a sense of fullness | T      | F          |
 | Causes blood clots        | F      | T          |
 | Banned or not             | F      | T          |
+
+# Compared to `maimai`
+
+|                           | maimai	 | Estradiol |
+|---------------------------|---------|-----------|
+| Provides energy           | 	F	     | F         |
+| Easy to prepare	          | F       | 	F        |
+| Low cost	                 | T	      | F         |
+| Gives a sense of fullness | 	F	     | F         |
+| Causes blood clots	       | F       | 	T        |
+| Banned or not	            | F	      | T         |
+| Harms the body	           | T       | 	T        |
+| Difficult to stop	        | T       | 	T        |
