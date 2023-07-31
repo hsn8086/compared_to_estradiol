@@ -1,4 +1,5 @@
 | English | [Chinese](README-zh_CN.md) |
+
 # Compared to estradiol
 
 "Compared to estradiol" is a project that compares estradiol to other things.
@@ -9,7 +10,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 
 # Main Text
 
-## Compared with `Drugs`
+## Compared to `Drugs`
 
 |                                   | Drugs | Estradiol |
 |-----------------------------------|-------|-----------|
@@ -20,3 +21,14 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Is a medication                   | T     | T         |
 | Affects libido                    | O     | T         |
 | Banned in some countries          | T     | T         |
+
+## Compared with `Eating`
+
+| 	                         | Eating | 	Estradiol |
+|---------------------------|--------|------------|
+| Provides energy           | T      | F          |
+| Easy to prepare           | T      | F          |
+| Low cost                  | T      | F          |
+| Gives a sense of fullness | T      | F          |
+| Causes blood clots        | F      | T          |
+| Banned or not             | F      | T          |
