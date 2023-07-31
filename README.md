@@ -1,7 +1,7 @@
 | English | [Chinese](README-zh_CN.md) |
-# Compare to estradiol
+# Compared to estradiol
 
-"Compare to estradiol" is a project that compares estradiol to other things.
+"Compared to estradiol" is a project that compares estradiol to other things.
 
 Of course, you are welcome to submit PRs to this project.
 
