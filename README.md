@@ -1,3 +1,4 @@
+| English | [Chinese](README-zh_CN.md) |
 # Compare to estradiol
 
 "Compare to estradiol" is a project that compares estradiol to other things.
