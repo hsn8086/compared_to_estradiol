@@ -33,7 +33,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Causes blood clots        | F      | T          |
 | Banned or not             | F      | T          |
 
-# Compared to `maimai`
+## Compared to `maimai`
 
 |                           | maimai	 | Estradiol |
 |---------------------------|---------|-----------|
@@ -46,7 +46,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Harms the body	           | T       | 	T        |
 | Difficult to stop	        | T       | 	T        |
 
-# Compared with 'Switch'
+## Compared with 'Switch'
 
 |                           | Switch | estradiol |
 |---------------------------|--------|-----------|
