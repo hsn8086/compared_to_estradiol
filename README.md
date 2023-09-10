@@ -51,7 +51,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 |                           | Switch | estradiol |
 |---------------------------|--------|-----------|
 | provides energy           | F      | F         |
-| The structure is complex  | F      | F         |
+| The structure is complex  | T      | T         |
 | Prices are low            | F      | F         |
 | Feel full                 | F      | F         |
 | Whether it is banned      | F      | T         |
