@@ -45,3 +45,16 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Banned or not	            | F	      | T         |
 | Harms the body	           | T       | 	T        |
 | Difficult to stop	        | T       | 	T        |
+
+# Compared with 'Switch'
+
+|                           | Switch | estradiol |
+|---------------------------|--------|-----------|
+| provides energy           | F      | F         |
+| The structure is complex  | F      | F         |
+| Prices are low            | F      | F         |
+| Feel full                 | F      | F         |
+| Whether it is banned      | F      | T         |
+| is a potential security risk | T   | T         |
+| addiction                 | T      | T         |
+| High visibility           | T      | F         |
