@@ -22,7 +22,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Affects libido                    | O     | T         |
 | Banned in some countries          | T     | T         |
 
-## Compared with `Eating`
+## Compared to `Eating`
 
 | 	                         | Eating | 	Estradiol |
 |---------------------------|--------|------------|
@@ -46,7 +46,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Harms the body	           | T       | 	T        |
 | Difficult to stop	        | T       | 	T        |
 
-## Compared with 'Switch'
+## Compared to `Switch`
 
 |                           | Switch | estradiol |
 |---------------------------|--------|-----------|
