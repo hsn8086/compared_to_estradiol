@@ -22,7 +22,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Affects libido                    | O     | T         |
 | Banned in some countries          | T     | T         |
 
-## Compared with `Eating`
+## Compared to `Eating`
 
 | 	                         | Eating | 	Estradiol |
 |---------------------------|--------|------------|
@@ -33,7 +33,7 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Causes blood clots        | F      | T          |
 | Banned or not             | F      | T          |
 
-# Compared to `maimai`
+## Compared to `maimai`
 
 |                           | maimai	 | Estradiol |
 |---------------------------|---------|-----------|
@@ -45,3 +45,16 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | Banned or not	            | F	      | T         |
 | Harms the body	           | T       | 	T        |
 | Difficult to stop	        | T       | 	T        |
+
+## Compared to `Switch`
+
+|                           | Switch | estradiol |
+|---------------------------|--------|-----------|
+| provides energy           | F      | F         |
+| The structure is complex  | T      | T         |
+| Prices are low            | F      | F         |
+| Feel full                 | F      | F         |
+| Whether it is banned      | F      | T         |
+| is a potential security risk | T   | T         |
+| addiction                 | T      | T         |
+| High visibility           | T      | F         |
