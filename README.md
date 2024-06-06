@@ -58,3 +58,14 @@ Note: This project is for entertainment purposes only. Please do not use it as m
 | is a potential security risk | T   | T         |
 | addiction                 | T      | T         |
 | High visibility           | T      | F         |
+
+## Compared to `Coding`
+
+|                           | Coding | estradiol |
+|---------------------------|--------|-----------|
+| Get pleasure              | T      | T         |
+| The structure is complex  | T      | T         |
+| Alopecia                  | T      | F         |
+| addiction                 | T      | T         |
+| High visibility           | T      | F         |
+| Severe stereotyping       | T      | T         |
